@@ -1,18 +1,25 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+.DS_Store
+devicetypes/.DS_Store
+resources/.DS_Store
+smartapps/.DS_Store
+.DS_Store
+resources/.DS_Store
+devicetypes/bangali/apixu-weather.src/api-response.txt
+devicetypes/bangali/apixu-weather.src/apixu-weather.groovy
+smartapps/bangali/rooms-test.groovy
+devicetypes/bangali/api-response.txt
+driver/api-response.txt
+app/collectSensorReadings.groovy
+NOTES
+app/anotherRoomEngaged.groovy
+app/md5DigestFromSettings.groovy
+app/saveAndRestoreSettings.groovy
+app/scheduleFromAndToTime.groovy
+app/buildHumidityMap.groovy
+app/colorsRGB.groovy
+app/processChildSwitches.groovy
+smartapps/bangali/rooms-holiday-lights/rooms-holiday-lights.groovy
+app/rooms-child-app-pre-cool-heat.groovy
+app/rooms-child-app-pre-settings-change.groovy
+app/rooms-occupancy-before-removing-alarm.groovy
+smartapps/bangali/rooms-child-cool-heat.src/rooms-child-cool-heat.groovy
